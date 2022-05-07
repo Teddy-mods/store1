@@ -1,0 +1,29 @@
+{
+    "default": "external",
+
+    "external": "{cc}",
+    
+    "iugu": {
+        "account_id": "",
+        "token": ""
+    },
+    "mercadopago": {
+        "token": ""
+    },
+    "getnet": {
+        "client_id": "",
+        "client_secret": "",
+        "seller_id": ""
+    },
+    "cielo": {
+        "cieloMerchantId": "beb0a9f9-efcf-4336-bacb-c570e79b46f9",
+        "cieloMerchantKey": "9iXhcsaXy0OPZrZZLXP8JSWJXLQETmNQbZwwBStK"
+    },
+    "pagarme": {
+        "api_key": ""
+    },
+    "erede": {
+        "pv": "",
+        "token": ""
+    }
+}

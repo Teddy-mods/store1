@@ -1,0 +1,32 @@
+Olá, eu sou o PladixOficial e hoje estarei dando os passos
+para que você faça a instalação desta source em Python
+
+- Dúvidas: @pladixoficial no Telegram!
+- Canal no YouTube: https://www.youtube.com/channel/UCFn3kKZF9Hn8POamOBKfeSQ
+
+--- Passos a serem feitos. ---
+
+1. Para utilizar este BOT EM Python você deverá ter algumas coisas.
+2. Primeiramente, instale o Python em seu computador ou VPS Windows *Azure*
+3. Pelo site oficial do Python: https://www.python.org/downloads/
+4. Instale a versão atual.
+5. Na instalação ele vai pedir para marcar algumas caixaas, você marca todas, inclusive a includes PATH.
+6. Depois disso você vai desarquivar o "python.zip" em sua área de trabalho.
+7. E clicar sobre o nome main.py (se caso esteja aparecendo o logotipo do Python
+ao lado esquerdo do nome "main.py")
+8. Ele irá executar e vai pedir para instalar as requirements.txt neste caso,
+você irá apenas apertar as teclas "Windows + R" e digitar cmd e dar enter.
+9. Você vai digitar depois no terminal CMD, o comando "cd desktop/nomedapasta"
+e depois vai dar enter.
+10. Vai digitar também, o comando "pip3 install -r requirements.txt" e aguardar.
+11. Após isso você pode usar o comando "py main.py" para executar o seu bot.
+
+-> Obs: vale lembrar que se quiser manter seu bot online 24h, precisará de uma vps. Em caso
+do desligamento do PC em que o terminal está aberto, o BOT irá ficar offline.
+
+-> Aprove e utilize as máquinas virtuais da Azure. (ensinarei como criar em um video do meu canal.)
+
+
+
+- Feito isso, você iniciar pelo comando "py main.py" , se resultar uma mensagem (BOT ONLINE) ... pronto seu BOT está disponível para seu USO, espero que
+não sobre dúvidas. Caso entre em contato comigo, eu posso resolver.
